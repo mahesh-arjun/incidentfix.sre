@@ -1,0 +1,6 @@
+{
+  "name": "IncidentFix AI",
+  "description": "A simple and powerful dashboard for software incident diagnosis, root cause reasoning, and safe automated remediation with human approval.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
